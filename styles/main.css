@@ -164,6 +164,8 @@ header {
     font-weight: 900;
     margin-top: 10px;
     color: #FFFFFF;
+    line-height: 76px;
+    margin-bottom: 10px;
 }
 
 .banner-text {
@@ -171,7 +173,8 @@ header {
     font-size: 15px;
     line-height: 24px;
     color: #FAF9F9;
-    margin-bottom: 35px;
+    margin: 0 0 35px;
+    max-width: 320px;
 }
 
 .banner-link {
