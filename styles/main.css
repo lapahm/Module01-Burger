@@ -216,6 +216,7 @@ header {
     text-transform: uppercase;
     color: #1B2A49;
     margin: 0;
+    padding-bottom: 40px;
 }
 
 .menu-select {
@@ -232,7 +233,7 @@ header {
     background-position: 89% center;
 }
 
-.menu-grid{
+.menu-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
