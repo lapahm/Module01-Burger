@@ -236,7 +236,8 @@ header {
 .menu-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 50px 20px;
+    margin-bottom: 100px;
 }
 
 .menu-grid-cover {
@@ -244,6 +245,7 @@ header {
     height: 430px;
     position: relative;
     overflow: hidden;
+    margin-bottom: 23px;
 }
 
 .menu-grid-cover img {
@@ -288,7 +290,7 @@ header {
     background: #FBB731;
     border: none;
     border-radius: 5px;
-    padding: 10px 30px 10px 52px;
+    padding: 10px 32px;
     align-items: center;
     justify-content: center;
     gap: 9px;
