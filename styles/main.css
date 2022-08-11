@@ -308,3 +308,12 @@ header {
     width: 18px;
     height: 18px;
 }
+
+.add-header {
+    font-family: 'Nunito Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+    color: #1B2A49;
+    padding-top: 110px;
+}
