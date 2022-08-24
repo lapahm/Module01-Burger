@@ -1,4 +1,4 @@
-// Smooth Scroll
+// smoothScroll
 
 const links = document.querySelectorAll(".banner-link");
 
@@ -16,7 +16,7 @@ function clickHandler(e) {
 }
 
 
-// Button Up
+// buttonUp
 
 window.onscroll = function () { scrollFunction() };
 
