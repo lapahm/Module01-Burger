@@ -18,7 +18,7 @@ function clickHandler(e) {
 
 // buttonUp
 
-window.onscroll = function () { scrollFunction() };
+window.onscroll = function(){scrollFunction()};
 
 const upbuttons = document.querySelectorAll(".button-up");
 
@@ -35,8 +35,8 @@ function clickHandler(e) {
 	});
 }
 
-function scrollFunction() {
-	if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+function scrollFunction(){
+	if ( document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000){
 		document.getElementById('btnUp').className = 'button-up visible';
 	} else {
 		document.getElementById('btnUp').className = 'button-up hidden';
