@@ -525,7 +525,7 @@ header {
 .burger {
     width: 34px;
     height: 22px;
-    background-image: url(../images/Menu-burger.svg);
+    background-image: url(../images/burger.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-color:transparent;
@@ -553,7 +553,7 @@ header {
 .burger-close {
     width: 34px;
     height: 22px;
-    background-image: url(../images/close-x.svg);
+    background-image: url(../images/close.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-color:transparent;
